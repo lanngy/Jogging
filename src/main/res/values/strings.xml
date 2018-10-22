@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jogging</string>
+    <string name="Pooh">Pooh</string>
+    <string name="Piglet">Piglet</string>
+    <string name="Four_Miles">Four Miles</string>
+    <string name="Three_Miles">Three Miles</string>
+    <string name="Two_Miles">Two Miles</string>
+    <string name="One_Mile">One Mile</string>
+    <string name="Restart">Restart</string>
+    <string name="Winner">Winner</string>
+
+
+
+
+</resources>
